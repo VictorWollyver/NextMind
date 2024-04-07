@@ -10,7 +10,7 @@ const Sobre = () => {
       <section className="h-[calc(90vh-80px)] flex items-center">
         <div className="container mx-auto px-4 max-w-[1246px]">
           <div className="lg:grid lg:grid-cols-2 items-center justify-center content-center ">
-            <div className="rounded  ">
+            <div className="rounded hidden lg:block">
               <img className="rounded h-[500px]" src={imgSobre} alt="" />
             </div>
             <div>
