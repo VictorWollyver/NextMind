@@ -6,7 +6,7 @@ import { Fade, Slide } from "react-awesome-reveal";
 
 const Sobre = () => {
   return (
-    <Slide direction="left" duration={1000} delay={1000} triggerOnce={true} fraction={0.3}>
+    <Slide direction="left" duration={1000} delay={500} triggerOnce={true} fraction={0.3}>
       <section className="h-[calc(90vh-80px)] flex items-center">
         <div className="container mx-auto px-4 max-w-[1246px]">
           <div className="lg:grid lg:grid-cols-2 items-center justify-center content-center ">

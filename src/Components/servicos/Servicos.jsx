@@ -3,7 +3,7 @@ import { Fade, Slide } from "react-awesome-reveal";
 
 const Servicos = () => {
   return (
-    <Slide direction="right" duration={1000} delay={1000} triggerOnce={true} fraction={0.3}>
+    <Slide direction="right" duration={1000} delay={500} triggerOnce={true} fraction={0.3}>
       <section className="h-[calc(90vh-80px)] flex items-center">
         <div className="container mx-auto px-4 max-w-[1246px]">
           <div className="text-center">

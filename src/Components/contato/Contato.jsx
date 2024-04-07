@@ -7,7 +7,7 @@ const Contato = () => {
     <Slide
       direction="right"
       duration={1000}
-      delay={1000}
+      delay={500}
       triggerOnce={true}
       fraction={0.3}
     >
