@@ -11,10 +11,10 @@ const Home = () => {
         <div className="container max-w-[1246px] mx-auto px-4">
           <div className="lg:grid lg:grid-cols-2 items-center">
             <div className="">
-              <h1 className="font-bold text-primary text-5xl leading-10">
+              <h1 className="font-bold text-primary text-5xl leading-[60px]">
                 Tudo muda quando você <br /> aprende.
               </h1>
-              <h2 className="font-bold text-4xl mt-4 mb-8 leading-10">
+              <h2 className="font-bold text-4xl mt-4 mb-8 leading-[50px]">
                 Venha mudar o seu mundo <br /> com a NextMind!
               </h2>
               <Button text={"Comprar agora"} />
